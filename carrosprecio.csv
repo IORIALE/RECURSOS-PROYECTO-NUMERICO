@@ -1,4 +1,4 @@
-Carro ID;Nombre Carro;tipo combustible;aspiracion;cuerpo auto;Rueda;Longitud c.;Altura c.;cilindros;tamaño motor;carrera;caballosf;mpg ciudad;Precio
+Carro ID;Nombre Carro;tipo combustible;aspiracion;cuerpo auto;Rueda;Longitud c.;Altura c.;cilindros;tamano motor;carrera;caballosf;mpg ciudad;Precio
 1;alfa-rome;gas;std;convertible;88.6;168.8;48.8;4;130;2.68;111;21;13495
 2;alfa-rome;gas;std;covertible;88.6;168.8;48.8;4;130;2.68;111;21;16500
 3;alfa-rome;gas;std;Hatchback;94.5;171;52.4;6;152;3.47;154;19;16500
